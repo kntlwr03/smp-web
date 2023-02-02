@@ -123,8 +123,8 @@ todaydate = date.today()
 #todaytime = datetime.time()
 
 
-#import datetime
-#currentDT = datetime.datetime.now()
+import datetime
+currentDT = datetime.datetime.now()
 
 #import time
 # now = time.strftime("%c")
